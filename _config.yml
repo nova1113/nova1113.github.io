@@ -1,1 +1,9 @@
+# Site settings
+title: 꾸준하게 기록하자
+description: 배우고 깨닫고 느끼고 뭐든지 기록하는 장소
+url: 'https://nova1113.github.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
 theme: jekyll-theme-minimal
