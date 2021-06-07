@@ -1,0 +1,1 @@
+SELECT SUBSTRING( convert(varchar, getdate(),108),1,5)
